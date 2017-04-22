@@ -1,0 +1,4 @@
+InitialState
+Robot-free;Robot-location,22;Machine,1,2;Machine,23,1;Machine,32,3;Petition,3,1;Petition,9,1;Petition,11,3;Petition,13,2;Petition,35,1;
+GoalState
+Robot-location,2;Served,3;Served,9;Served,11;Served,13;Served,35;
